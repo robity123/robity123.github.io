@@ -1,0 +1,25 @@
+p{
+    color:red;
+font-size: 13pt;
+font-family:cursive
+}
+body
+{
+    background-color:black;
+    background-image: url("oo.webp");
+}
+.tytul
+{
+    font-weight:bold;font-size: 13;
+
+}
+.tekst
+{
+    font-weight: normal;font-size: 11;
+}
+div
+{
+margin: auto;
+width: 800px;
+background-color: rgb(43, 43, 43);
+}
