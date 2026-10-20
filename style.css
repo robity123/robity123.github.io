@@ -16,10 +16,10 @@ body
 .tekst
 {
     font-weight: normal;font-size: 11;
+
 }
 div
 {
-margin: auto;
-width: 800px;
-background-color: rgb(43, 43, 43);
+    margin: auto;
+    width: 800px;
 }
